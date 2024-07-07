@@ -1,0 +1,3 @@
+Conflict Resolution:
+Merge: Conflicts are resolved in a merge commit, marked by conflict markers.
+Rebase: Conflicts are addressed interactively, one commit at a time.
